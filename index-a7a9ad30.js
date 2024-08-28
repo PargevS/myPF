@@ -1548,7 +1548,7 @@
                 },
                 direction: {country: {en: "Armenia"}, city: {en: "Yerevan"}, phone: "+37494465056"},
                 directionRus: {country: {en: "Russia"}, city: {en: "Moscow"}, phone: "+79307058384"},
-                siteUpdate: {text: {en: "Last site update:"}, date: {en: "March 06, 2022"}},
+                siteUpdate: {text: {en: "Last site update:"}, date: {en: "March 01, 2023"}},
                 copyright: {en: "Pargev Sargsyan"},
                 footerBg: a.footerBg
             }, Yt = {
@@ -2173,7 +2173,7 @@
                     exact: !0,
                     onClick: d
                 }, e.title.en))
-            })))), p.a.createElement("div", {className: m}, p.a.createElement("div", {className: "wrapper"}, p.a.createElement("section", {className: "fast-contacts row "}, p.a.createElement("div", {className: "title"}, "Contacts"), p.a.createElement("ul", null, p.a.createElement("li", null, "email : spargevs91@gmail.com"), p.a.createElement("li", null, "phone: +79307058384"), p.a.createElement("li", {className: "mb-2"}, "phone: +37494465056"))), p.a.createElement("section", {className: "address row "}, p.a.createElement("div", {className: "title "}, "Armenia"), p.a.createElement("ul", {className: "mb-2"}, p.a.createElement("li", null, "Yerevan"), p.a.createElement("li", null, "phone: +37494465056")), p.a.createElement("div", {className: "title "}, "Russia"), p.a.createElement("ul", {className: "mb-3"}, p.a.createElement("li", null, "Nizhny Novgorod"), p.a.createElement("li", null, "phone: +79307058384")), p.a.createElement("ul", null, p.a.createElement("li", null, "Last Site Update:"), p.a.createElement("li", null, "March 06, 2022"))), p.a.createElement("section", {className: "social row mt-5"}, p.a.createElement("div", {className: "title"}, "Social"), p.a.createElement("ul", null, n.map((function (e) {
+            })))), p.a.createElement("div", {className: m}, p.a.createElement("div", {className: "wrapper"}, p.a.createElement("section", {className: "fast-contacts row "}, p.a.createElement("div", {className: "title"}, "Contacts"), p.a.createElement("ul", null, p.a.createElement("li", null, "email : spargevs91@gmail.com"), p.a.createElement("li", null, "phone: +79307058384"), p.a.createElement("li", {className: "mb-2"}, "phone: +37494465056"))), p.a.createElement("section", {className: "address row "}, p.a.createElement("div", {className: "title "}, "Armenia"), p.a.createElement("ul", {className: "mb-2"}, p.a.createElement("li", null, "Yerevan"), p.a.createElement("li", null, "phone: +37494465056")), p.a.createElement("div", {className: "title "}, "Russia"), p.a.createElement("ul", {className: "mb-3"}, p.a.createElement("li", null, "Nizhny Novgorod"), p.a.createElement("li", null, "phone: +79307058384")), p.a.createElement("ul", null, p.a.createElement("li", null, "Last Site Update:"), p.a.createElement("li", null, "March 01, 2023"))), p.a.createElement("section", {className: "social row mt-5"}, p.a.createElement("div", {className: "title"}, "Social"), p.a.createElement("ul", null, n.map((function (e) {
                 return p.a.createElement("li", {key: e.id}, p.a.createElement("a", {
                     href: e.href,
                     target: "_blank"
